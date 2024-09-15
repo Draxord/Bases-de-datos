@@ -1,3 +1,5 @@
 # Apartment Database
 
-Este proyecto tiene como objetivo desarrollar un sistema de software para la gestión de complejos de apartamentos. El sistema proporcionará funcionalidades clave para facilitar la administración de propiedades, la gestión de pagos, la reserva de espacios comunes y la comunicación eficiente entre los usuarios del complejo. <br>
+This project aims to develop a software system for the management of apartment complexes. The system will provide key functionalities to facilitate property management, payment management, reservation of common spaces and efficient communication between users of the complex. <br>
+
+This project is planned through the use of the 10 steps of database development methodology. Where the entities, their attributes and the relationship between these entities were obtained.
